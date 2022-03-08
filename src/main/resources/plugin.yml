@@ -5,6 +5,6 @@ main: ${mainClass}
 version: ${version}
 url: ${url}
 commands:
-  example:
-    aliases: ["ex"]
-    description: "This is an example plugin."
+  redstonelimiter:
+    aliases: ["redstone"]
+    description: "Check the amount of redstone toggled."
